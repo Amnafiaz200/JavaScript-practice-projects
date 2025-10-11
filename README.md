@@ -1,28 +1,3 @@
-🧩 Folder Structure
-javascript-practice-projects/
-│
-├── ColorChanger/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── BMICalculator/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── DigitalClock/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── GuessTheNumber/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-└── README.md
-
 🧠 JavaScript Practice Projects
 
 A collection of small web projects built using HTML, CSS, and JavaScript during my front-end practice sessions.
